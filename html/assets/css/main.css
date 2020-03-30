@@ -3378,6 +3378,7 @@ html, body {
   content: '';
   -webkit-transition: all .3s;
   transition: all .3s;
+  height: 100%;
 }
 
 .b-team__inner {
